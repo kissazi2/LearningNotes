@@ -200,6 +200,8 @@
 
 * [Resume(简历)](https://zhuanlan.zhihu.com/p/20672941)
 
+* [Resume(简历模板)](https://github.com/Trinea/trinea-download/tree/master/resume)
+
 
 ---
 
