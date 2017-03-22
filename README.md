@@ -15,7 +15,7 @@
     * [AsyncTask源码分析](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Asynctask源码分析.md)
     * [插件化技术](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/插件化技术学习.md)
     * [自定义控件](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/自定义控件.md)
-    * [事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
+    * [事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b), [事件超清晰英文pdf](./Part1/Android/PRE_andevcon_mastering-the-android-touch-system.pdf),[Android Touch事件传递机制](http://ju.outofmemory.cn/entry/73542)
     * [ANR问题](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/ANR问题.md)
     * [Art和Dalvik的区别](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Art和Dalvik区别.md)
     * [Android关于OOM的解决方案](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/Android/Android关于oom的解决方案.md)
@@ -116,6 +116,7 @@
   * [使用wait/notify/notifyAll实现线程间通信](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/使用wait:notify:notifyall实现线程间通信.md)
   * [NIO](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/NIO.md)
 
+* [MAT使用](http://eclipsesource.com/blogs/2013/01/21/10-tips-for-using-the-eclipse-memory-analyzer/)
  ---
 
 
